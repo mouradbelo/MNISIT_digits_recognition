@@ -1,2 +1,2 @@
 # MNISIT_digits_recognition
-C and Matlab implementation of an old personal project on MNIST digits recognition with neural networks. 
+Old personal project on C++ and Matlab implementation on MNIST digits recognition with neural networks. 
